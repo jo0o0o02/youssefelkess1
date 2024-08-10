@@ -1,0 +1,42 @@
+body {
+    background-repeat: repeat;
+    background: scroll;
+    background-image: url("../imgs/main.jpeg");
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    border: 10px;
+    border-radius: 5px;
+    border-style: outset;
+    border-color: rgb(149, 127, 95);
+    padding: 10px;
+    font-size: 30px;
+    margin: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+a.d {
+    margin-right: 450px;
+}
+
+a.g {
+    margin-right: 470px;
+}
+
+a.j {
+    margin-right: 470px;
+
+}
+
+a.h {
+    margin-right: 60px;
+}
+
+a.k {
+    margin-right: 52px;
+}
